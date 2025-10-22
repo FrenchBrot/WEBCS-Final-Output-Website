@@ -1,6 +1,8 @@
 # WEBCS-Final-Output-Website
 "Capture Study.io" is a simple photography portfolio website. This repository contains a responsive web design in 3 different viewports (Desktop, Tablet, and Mobile Viewports).
 
+Viewable Link: tbc...
+
 Features:
 - JS/CSS hovering sidebar menu for desktop viewport
 - JS/CSS hamburger menu for tablet and mobile viewport
